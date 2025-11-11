@@ -45,3 +45,24 @@ def embed_add(chunk_dict, embedding_model, faiss_index, cursor):
         "INSERT INTO chunks (text, document, section) VALUES (?, ?, ?)",
         (chunk_dict['text'], chunk_dict['document'], chunk_dict['section'])
     )
+
+def process_and_store_chunks():
+  all_chunks = create_all_chunks('Json_files')
+  save_chunks(all_chunks)
+  print(f"Created {len(all_chunks)} chunks")
+
+  dimension = 768
+  embedding_model = 'moka-ai/m3e-base'
+  llm_model = "Qwen/Qwen2-1.5B-Instruct"
+
+  rag = RAG(dimension=dimension, embedding_model=embedding_model, model_name=llm_model)
+
+  print("Loading and chunking documents...")
+  all_chunks = load_chunks('chunks.pkl')
+
+  print(f"\nAdding {len(all_chunks)} chunks to database...")
+  for chunk in all_chunks:
+      rag.add_chunk(chunk)
+
+  rag.commit()
+  rag.save_databases()

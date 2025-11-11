@@ -90,9 +90,6 @@ def load_chunks(filename='chunks.pkl'):
     print(f"Loaded {len(chunks)} chunks from {filename}")
     return chunks
 
-# Usage
 all_chunks = create_all_chunks()
 save_chunks(all_chunks)
 
-# Later...
-all_chunks = load_chunks()
