@@ -6,7 +6,7 @@ This folder contains scripts to scrape common diseases from Mayo Clinic across 7
 
 ## Main Script
 
-### scrape_all_diseases.py
+### scrape_common_diseases.py
 
 **Comprehensive all-in-one scraper for all 7 categories.**
 
