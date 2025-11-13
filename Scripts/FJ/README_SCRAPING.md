@@ -11,12 +11,12 @@ This folder contains scripts to scrape common diseases from Mayo Clinic across 7
 **Comprehensive all-in-one scraper for all 7 categories.**
 
 Features:
-- Scrapes all diseases from all 7 medical categories
+- Scrapes diseases from all 7 medical categories
 - Uses fixed parser for Mayo Clinic's div-based HTML structure
 - Automatic retry of failed diseases
 - Progress tracking and resume capability
 - Rate limiting (3 seconds between requests)
-- Detailed logging and reporting
+
 
 Categories covered:
 1. Cardiovascular (20 diseases)
@@ -29,7 +29,7 @@ Categories covered:
 
 Usage:
 ```bash
-python scrape_all_diseases.py
+python scrape_common_diseases.py
 ```
 
 The script will:
@@ -38,17 +38,6 @@ The script will:
 3. Scrape all 7 categories
 4. Automatically retry any failures
 5. Generate comprehensive reports
-
-## Legacy Scripts
-
-### scrape_common_diseases.py
-Original scraping script (modified for categories 4-7).
-
-### retry_failed_diseases.py
-Retry script for initial 7 failures from categories 1-3.
-
-### retry_remaining_failed.py
-Retry script for 14 failures from categories 4-7.
 
 ## Output Structure
 
@@ -126,15 +115,9 @@ Diseases were selected based on:
 2. **Medical impact** (mortality, morbidity, disability)
 3. **Patient relevance** (commonly searched conditions)
 
-## Documentation
-
-- `FINAL_SCRAPING_REPORT.md` - Comprehensive report of all 121 diseases
-- `SCRAPING_SUMMARY_3_CATEGORIES.md` - Report after initial 3 categories
-- This README
 
 ## Notes
 
-- All scripts avoid using emojis as requested
 - Rate limiting prevents Mayo Clinic from blocking requests
 - Progress is saved after each disease to prevent data loss
 - The master list contains 118 diseases, 121 were successfully scraped
