@@ -1,0 +1,122 @@
+disease_name,category,mayo_url,priority,scraped,notes
+Coronary Artery Disease,cardiovascular,https://www.mayoclinic.org/diseases-conditions/coronary-artery-disease/symptoms-causes/syc-20350613,high,no,Leading cause of death globally
+Heart Failure,cardiovascular,https://www.mayoclinic.org/diseases-conditions/heart-failure/symptoms-causes/syc-20373142,high,no,Affects 64M people worldwide
+Atrial Fibrillation,cardiovascular,https://www.mayoclinic.org/diseases-conditions/atrial-fibrillation/symptoms-causes/syc-20350624,high,no,Most common arrhythmia
+Hypertension,cardiovascular,https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410,high,no,1.28B adults worldwide
+Stroke,cardiovascular,https://www.mayoclinic.org/diseases-conditions/stroke/symptoms-causes/syc-20350113,high,no,2nd leading cause of death
+Heart Attack,cardiovascular,https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106,high,no,Major cardiovascular event
+Peripheral Artery Disease,cardiovascular,https://www.mayoclinic.org/diseases-conditions/peripheral-artery-disease/symptoms-causes/syc-20350557,high,no,200M affected globally
+Deep Vein Thrombosis,cardiovascular,https://www.mayoclinic.org/diseases-conditions/deep-vein-thrombosis/symptoms-causes/syc-20352557,high,no,Common blood clot condition
+Cardiomyopathy,cardiovascular,https://www.mayoclinic.org/diseases-conditions/cardiomyopathy/symptoms-causes/syc-20370709,medium,no,Heart muscle disease
+Angina,cardiovascular,https://www.mayoclinic.org/diseases-conditions/angina/symptoms-causes/syc-20369373,high,no,Chest pain from reduced blood flow
+Aortic Aneurysm,cardiovascular,https://www.mayoclinic.org/diseases-conditions/aortic-aneurysm/symptoms-causes/syc-20369472,medium,no,Dangerous vessel enlargement
+Pulmonary Embolism,cardiovascular,https://www.mayoclinic.org/diseases-conditions/pulmonary-embolism/symptoms-causes/syc-20354647,high,no,Life-threatening blood clot
+Endocarditis,cardiovascular,https://www.mayoclinic.org/diseases-conditions/endocarditis/symptoms-causes/syc-20352576,medium,no,Heart valve infection
+Heart Valve Disease,cardiovascular,https://www.mayoclinic.org/diseases-conditions/heart-valve-disease/symptoms-causes/syc-20353727,high,no,Common in aging population
+Pericarditis,cardiovascular,https://www.mayoclinic.org/diseases-conditions/pericarditis/symptoms-causes/syc-20352510,medium,no,Heart lining inflammation
+Raynaud's Disease,cardiovascular,https://www.mayoclinic.org/diseases-conditions/raynauds-disease/symptoms-causes/syc-20363571,medium,no,Blood vessel spasms
+Atherosclerosis,cardiovascular,https://www.mayoclinic.org/diseases-conditions/arteriosclerosis-atherosclerosis/symptoms-causes/syc-20350569,high,no,Artery plaque buildup
+Congenital Heart Disease,cardiovascular,https://www.mayoclinic.org/diseases-conditions/congenital-heart-disease-children/symptoms-causes/syc-20350074,medium,no,Birth heart defects
+Mitral Valve Prolapse,cardiovascular,https://www.mayoclinic.org/diseases-conditions/mitral-valve-prolapse/symptoms-causes/syc-20377546,medium,no,Common valve abnormality
+Ventricular Tachycardia,cardiovascular,https://www.mayoclinic.org/diseases-conditions/ventricular-tachycardia/symptoms-causes/syc-20355138,medium,no,Rapid heart rhythm
+Alzheimer's Disease,neurological,https://www.mayoclinic.org/diseases-conditions/alzheimers-disease/symptoms-causes/syc-20350447,high,no,Most common dementia
+Parkinson's Disease,neurological,https://www.mayoclinic.org/diseases-conditions/parkinsons-disease/symptoms-causes/syc-20376055,high,no,2nd most common neurodegeneration
+Multiple Sclerosis,neurological,https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269,high,no,Autoimmune CNS disease
+Epilepsy,neurological,https://www.mayoclinic.org/diseases-conditions/epilepsy/symptoms-causes/syc-20350093,high,no,50M affected worldwide
+Migraine,neurological,https://www.mayoclinic.org/diseases-conditions/migraine-headache/symptoms-causes/syc-20360201,high,no,1B people globally
+Dementia,neurological,https://www.mayoclinic.org/diseases-conditions/dementia/symptoms-causes/syc-20352013,high,no,55M people worldwide
+ALS,neurological,https://www.mayoclinic.org/diseases-conditions/amyotrophic-lateral-sclerosis/symptoms-causes/syc-20354022,medium,no,Motor neuron disease
+Peripheral Neuropathy,neurological,https://www.mayoclinic.org/diseases-conditions/peripheral-neuropathy/symptoms-causes/syc-20352061,high,no,Nerve damage condition
+Brain Tumor,neurological,https://www.mayoclinic.org/diseases-conditions/brain-tumor/symptoms-causes/syc-20350084,medium,no,Primary CNS cancer
+Meningitis,neurological,https://www.mayoclinic.org/diseases-conditions/meningitis/symptoms-causes/syc-20350508,high,no,Serious brain infection
+Encephalitis,neurological,https://www.mayoclinic.org/diseases-conditions/encephalitis/symptoms-causes/syc-20356136,medium,no,Brain inflammation
+Guillain-Barre Syndrome,neurological,https://www.mayoclinic.org/diseases-conditions/guillain-barre-syndrome/symptoms-causes/syc-20362793,medium,no,Acute paralysis syndrome
+Myasthenia Gravis,neurological,https://www.mayoclinic.org/diseases-conditions/myasthenia-gravis/symptoms-causes/syc-20352036,medium,no,Neuromuscular disorder
+Restless Legs Syndrome,neurological,https://www.mayoclinic.org/diseases-conditions/restless-legs-syndrome/symptoms-causes/syc-20377168,high,no,Common sleep disorder
+Transient Ischemic Attack,neurological,https://www.mayoclinic.org/diseases-conditions/transient-ischemic-attack/symptoms-causes/syc-20355679,high,no,Mini-stroke warning sign
+Bell's Palsy,neurological,https://www.mayoclinic.org/diseases-conditions/bells-palsy/symptoms-causes/syc-20370028,medium,no,Facial nerve paralysis
+Trigeminal Neuralgia,neurological,https://www.mayoclinic.org/diseases-conditions/trigeminal-neuralgia/symptoms-causes/syc-20353344,medium,no,Severe facial pain
+Huntington's Disease,neurological,https://www.mayoclinic.org/diseases-conditions/huntingtons-disease/symptoms-causes/syc-20356117,medium,no,Genetic brain disorder
+Cerebral Palsy,neurological,https://www.mayoclinic.org/diseases-conditions/cerebral-palsy/symptoms-causes/syc-20353999,medium,no,Motor disorder from birth
+Narcolepsy,neurological,https://www.mayoclinic.org/diseases-conditions/narcolepsy/symptoms-causes/syc-20375497,medium,no,Sleep disorder
+Crohn's Disease,gastrointestinal,https://www.mayoclinic.org/diseases-conditions/crohns-disease/symptoms-causes/syc-20353304,high,no,Inflammatory bowel disease
+Ulcerative Colitis,gastrointestinal,https://www.mayoclinic.org/diseases-conditions/ulcerative-colitis/symptoms-causes/syc-20353326,high,no,IBD affecting colon
+GERD,gastrointestinal,https://www.mayoclinic.org/diseases-conditions/gerd/symptoms-causes/syc-20361940,high,no,Acid reflux disease
+Irritable Bowel Syndrome,gastrointestinal,https://www.mayoclinic.org/diseases-conditions/irritable-bowel-syndrome/symptoms-causes/syc-20360016,high,no,Affects 10-15% population
+Celiac Disease,gastrointestinal,https://www.mayoclinic.org/diseases-conditions/celiac-disease/symptoms-causes/syc-20352220,high,no,Gluten intolerance
+Diverticulitis,gastrointestinal,https://www.mayoclinic.org/diseases-conditions/diverticulitis/symptoms-causes/syc-20371758,high,no,Colon pouch inflammation
+Pancreatitis,gastrointestinal,https://www.mayoclinic.org/diseases-conditions/pancreatitis/symptoms-causes/syc-20360227,high,no,Pancreas inflammation
+Gallstones,gastrointestinal,https://www.mayoclinic.org/diseases-conditions/gallstones/symptoms-causes/syc-20354214,high,no,Very common condition
+Gastritis,gastrointestinal,https://www.mayoclinic.org/diseases-conditions/gastritis/symptoms-causes/syc-20355807,high,no,Stomach lining inflammation
+Peptic Ulcer,gastrointestinal,https://www.mayoclinic.org/diseases-conditions/peptic-ulcer/symptoms-causes/syc-20354223,high,no,Stomach/duodenal ulcers
+Colon Cancer,gastrointestinal,https://www.mayoclinic.org/diseases-conditions/colon-cancer/symptoms-causes/syc-20353669,high,no,3rd most common cancer
+Cirrhosis,gastrointestinal,https://www.mayoclinic.org/diseases-conditions/cirrhosis/symptoms-causes/syc-20351487,high,no,Liver scarring
+Hepatitis B,gastrointestinal,https://www.mayoclinic.org/diseases-conditions/hepatitis-b/symptoms-causes/syc-20366802,high,no,Viral liver infection
+Hepatitis C,gastrointestinal,https://www.mayoclinic.org/diseases-conditions/hepatitis-c/symptoms-causes/syc-20354278,high,no,Chronic liver infection
+Fatty Liver Disease,gastrointestinal,https://www.mayoclinic.org/diseases-conditions/nonalcoholic-fatty-liver-disease/symptoms-causes/syc-20354567,high,no,NAFLD epidemic
+Appendicitis,gastrointestinal,https://www.mayoclinic.org/diseases-conditions/appendicitis/symptoms-causes/syc-20369543,high,no,Common surgical emergency
+Barrett's Esophagus,gastrointestinal,https://www.mayoclinic.org/diseases-conditions/barretts-esophagus/symptoms-causes/syc-20352841,medium,no,GERD complication
+Hemorrhoids,gastrointestinal,https://www.mayoclinic.org/diseases-conditions/hemorrhoids/symptoms-causes/syc-20360268,high,no,Very common condition
+Lactose Intolerance,gastrointestinal,https://www.mayoclinic.org/diseases-conditions/lactose-intolerance/symptoms-causes/syc-20374232,high,no,Affects 68% globally
+Type 2 Diabetes,endocrine_metabolic,https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/symptoms-causes/syc-20351193,high,no,537M affected globally
+Type 1 Diabetes,endocrine_metabolic,https://www.mayoclinic.org/diseases-conditions/type-1-diabetes/symptoms-causes/syc-20353011,high,no,Autoimmune diabetes
+Hypothyroidism,endocrine_metabolic,https://www.mayoclinic.org/diseases-conditions/hypothyroidism/symptoms-causes/syc-20350284,high,no,Underactive thyroid
+Hyperthyroidism,endocrine_metabolic,https://www.mayoclinic.org/diseases-conditions/hyperthyroidism/symptoms-causes/syc-20373659,high,no,Overactive thyroid
+Obesity,endocrine_metabolic,https://www.mayoclinic.org/diseases-conditions/obesity/symptoms-causes/syc-20375742,high,no,Global epidemic
+Metabolic Syndrome,endocrine_metabolic,https://www.mayoclinic.org/diseases-conditions/metabolic-syndrome/symptoms-causes/syc-20351916,high,no,Cluster of risk factors
+Osteoporosis,endocrine_metabolic,https://www.mayoclinic.org/diseases-conditions/osteoporosis/symptoms-causes/syc-20351968,high,no,200M women worldwide
+Hashimoto's Thyroiditis,endocrine_metabolic,https://www.mayoclinic.org/diseases-conditions/hashimotos-disease/symptoms-causes/syc-20351855,high,no,Common thyroid disorder
+Graves' Disease,endocrine_metabolic,https://www.mayoclinic.org/diseases-conditions/graves-disease/symptoms-causes/syc-20356240,medium,no,Autoimmune hyperthyroidism
+Cushing Syndrome,endocrine_metabolic,https://www.mayoclinic.org/diseases-conditions/cushing-syndrome/symptoms-causes/syc-20351310,medium,no,Excess cortisol
+Addison's Disease,endocrine_metabolic,https://www.mayoclinic.org/diseases-conditions/addisons-disease/symptoms-causes/syc-20350293,medium,no,Adrenal insufficiency
+PCOS,endocrine_metabolic,https://www.mayoclinic.org/diseases-conditions/pcos/symptoms-causes/syc-20353439,high,no,Affects 10% of women
+Thyroid Nodules,endocrine_metabolic,https://www.mayoclinic.org/diseases-conditions/thyroid-nodules/symptoms-causes/syc-20355262,high,no,Very common finding
+Thyroid Cancer,endocrine_metabolic,https://www.mayoclinic.org/diseases-conditions/thyroid-cancer/symptoms-causes/syc-20354161,medium,no,Increasing incidence
+Hyperparathyroidism,endocrine_metabolic,https://www.mayoclinic.org/diseases-conditions/hyperparathyroidism/symptoms-causes/syc-20356194,medium,no,Calcium disorder
+Hypoglycemia,endocrine_metabolic,https://www.mayoclinic.org/diseases-conditions/hypoglycemia/symptoms-causes/syc-20373685,high,no,Low blood sugar
+Prediabetes,endocrine_metabolic,https://www.mayoclinic.org/diseases-conditions/prediabetes/symptoms-causes/syc-20355278,high,no,96M in US alone
+Asthma,respiratory_pulmonary,https://www.mayoclinic.org/diseases-conditions/asthma/symptoms-causes/syc-20369653,high,no,262M affected worldwide
+COPD,respiratory_pulmonary,https://www.mayoclinic.org/diseases-conditions/copd/symptoms-causes/syc-20353679,high,no,3rd leading cause of death
+Pneumonia,respiratory_pulmonary,https://www.mayoclinic.org/diseases-conditions/pneumonia/symptoms-causes/syc-20354204,high,no,Leading infectious killer
+Lung Cancer,respiratory_pulmonary,https://www.mayoclinic.org/diseases-conditions/lung-cancer/symptoms-causes/syc-20374620,high,no,Leading cancer death
+Tuberculosis,respiratory_pulmonary,https://www.mayoclinic.org/diseases-conditions/tuberculosis/symptoms-causes/syc-20351250,high,no,10M new cases yearly
+Bronchitis,respiratory_pulmonary,https://www.mayoclinic.org/diseases-conditions/bronchitis/symptoms-causes/syc-20355566,high,no,Very common respiratory
+Sleep Apnea,respiratory_pulmonary,https://www.mayoclinic.org/diseases-conditions/sleep-apnea/symptoms-causes/syc-20377631,high,no,Affects 1B globally
+Pulmonary Fibrosis,respiratory_pulmonary,https://www.mayoclinic.org/diseases-conditions/pulmonary-fibrosis/symptoms-causes/syc-20353690,medium,no,Progressive lung disease
+Cystic Fibrosis,respiratory_pulmonary,https://www.mayoclinic.org/diseases-conditions/cystic-fibrosis/symptoms-causes/syc-20353700,medium,no,Genetic lung disease
+Emphysema,respiratory_pulmonary,https://www.mayoclinic.org/diseases-conditions/emphysema/symptoms-causes/syc-20355555,high,no,COPD component
+Bronchiectasis,respiratory_pulmonary,https://www.mayoclinic.org/diseases-conditions/bronchiectasis/symptoms-causes/syc-20348546,medium,no,Airway damage
+Sarcoidosis,respiratory_pulmonary,https://www.mayoclinic.org/diseases-conditions/sarcoidosis/symptoms-causes/syc-20350358,medium,no,Multi-organ inflammation
+Pleural Effusion,respiratory_pulmonary,https://www.mayoclinic.org/diseases-conditions/pleural-effusion/symptoms-causes/syc-20372499,medium,no,Fluid around lungs
+Pneumothorax,respiratory_pulmonary,https://www.mayoclinic.org/diseases-conditions/pneumothorax/symptoms-causes/syc-20350367,medium,no,Collapsed lung
+Pulmonary Hypertension,respiratory_pulmonary,https://www.mayoclinic.org/diseases-conditions/pulmonary-hypertension/symptoms-causes/syc-20350697,medium,no,High lung blood pressure
+Chronic Kidney Disease,kidney_renal,https://www.mayoclinic.org/diseases-conditions/chronic-kidney-disease/symptoms-causes/syc-20354521,high,no,850M affected globally
+Kidney Stones,kidney_renal,https://www.mayoclinic.org/diseases-conditions/kidney-stones/symptoms-causes/syc-20355755,high,no,1 in 10 people affected
+Urinary Tract Infection,kidney_renal,https://www.mayoclinic.org/diseases-conditions/urinary-tract-infection/symptoms-causes/syc-20353447,high,no,Most common infection
+Acute Kidney Injury,kidney_renal,https://www.mayoclinic.org/diseases-conditions/kidney-failure/symptoms-causes/syc-20369048,high,no,Common hospital complication
+Polycystic Kidney Disease,kidney_renal,https://www.mayoclinic.org/diseases-conditions/polycystic-kidney-disease/symptoms-causes/syc-20352820,medium,no,Genetic kidney disorder
+Glomerulonephritis,kidney_renal,https://www.mayoclinic.org/diseases-conditions/glomerulonephritis/symptoms-causes/syc-20355705,medium,no,Kidney filter inflammation
+Kidney Cancer,kidney_renal,https://www.mayoclinic.org/diseases-conditions/kidney-cancer/symptoms-causes/syc-20352664,medium,no,Renal cell carcinoma
+Pyelonephritis,kidney_renal,https://www.mayoclinic.org/diseases-conditions/kidney-infection/symptoms-causes/syc-20353387,high,no,Kidney infection
+Nephrotic Syndrome,kidney_renal,https://www.mayoclinic.org/diseases-conditions/nephrotic-syndrome/symptoms-causes/syc-20375608,medium,no,Protein loss condition
+Bladder Cancer,kidney_renal,https://www.mayoclinic.org/diseases-conditions/bladder-cancer/symptoms-causes/syc-20356104,medium,no,Common urologic cancer
+Diabetic Nephropathy,kidney_renal,https://www.mayoclinic.org/diseases-conditions/diabetic-nephropathy/symptoms-causes/syc-20354556,high,no,Diabetes kidney damage
+Renal Artery Stenosis,kidney_renal,https://www.mayoclinic.org/diseases-conditions/renal-artery-stenosis/symptoms-causes/syc-20352651,medium,no,Kidney artery narrowing
+Osteoarthritis,musculoskeletal,https://www.mayoclinic.org/diseases-conditions/osteoarthritis/symptoms-causes/syc-20351925,high,no,Most common arthritis
+Rheumatoid Arthritis,musculoskeletal,https://www.mayoclinic.org/diseases-conditions/rheumatoid-arthritis/symptoms-causes/syc-20353648,high,no,Autoimmune arthritis
+Gout,musculoskeletal,https://www.mayoclinic.org/diseases-conditions/gout/symptoms-causes/syc-20372897,high,no,Crystal arthritis
+Fibromyalgia,musculoskeletal,https://www.mayoclinic.org/diseases-conditions/fibromyalgia/symptoms-causes/syc-20354780,high,no,Chronic pain syndrome
+Lupus,musculoskeletal,https://www.mayoclinic.org/diseases-conditions/lupus/symptoms-causes/syc-20365789,high,no,Systemic autoimmune
+Ankylosing Spondylitis,musculoskeletal,https://www.mayoclinic.org/diseases-conditions/ankylosing-spondylitis/symptoms-causes/syc-20354808,medium,no,Spinal arthritis
+Psoriatic Arthritis,musculoskeletal,https://www.mayoclinic.org/diseases-conditions/psoriatic-arthritis/symptoms-causes/syc-20354076,medium,no,Skin-joint arthritis
+Tendinitis,musculoskeletal,https://www.mayoclinic.org/diseases-conditions/tendinitis/symptoms-causes/syc-20378243,high,no,Tendon inflammation
+Bursitis,musculoskeletal,https://www.mayoclinic.org/diseases-conditions/bursitis/symptoms-causes/syc-20353242,high,no,Joint sac inflammation
+Scoliosis,musculoskeletal,https://www.mayoclinic.org/diseases-conditions/scoliosis/symptoms-causes/syc-20350716,medium,no,Spinal curvature
+Polymyalgia Rheumatica,musculoskeletal,https://www.mayoclinic.org/diseases-conditions/polymyalgia-rheumatica/symptoms-causes/syc-20376539,medium,no,Muscle pain disorder
+Carpal Tunnel Syndrome,musculoskeletal,https://www.mayoclinic.org/diseases-conditions/carpal-tunnel-syndrome/symptoms-causes/syc-20355603,high,no,Nerve compression
+Rotator Cuff Injury,musculoskeletal,https://www.mayoclinic.org/diseases-conditions/rotator-cuff-injury/symptoms-causes/syc-20350225,high,no,Shoulder injury
+Plantar Fasciitis,musculoskeletal,https://www.mayoclinic.org/diseases-conditions/plantar-fasciitis/symptoms-causes/syc-20354846,high,no,Heel pain
+Sjogren's Syndrome,musculoskeletal,https://www.mayoclinic.org/diseases-conditions/sjogrens-syndrome/symptoms-causes/syc-20353216,medium,no,Autoimmune dryness
+Paget's Disease of Bone,musculoskeletal,https://www.mayoclinic.org/diseases-conditions/pagets-disease-of-bone/symptoms-causes/syc-20350811,medium,no,Bone remodeling disorder
+Osteomyelitis,musculoskeletal,https://www.mayoclinic.org/diseases-conditions/osteomyelitis/symptoms-causes/syc-20375913,medium,no,Bone infection
+Muscular Dystrophy,musculoskeletal,https://www.mayoclinic.org/diseases-conditions/muscular-dystrophy/symptoms-causes/syc-20375388,medium,no,Genetic muscle disease
