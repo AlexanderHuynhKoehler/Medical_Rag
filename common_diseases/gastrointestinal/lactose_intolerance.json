@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "disease_name": "Lactose Intolerance",
+    "category": "gastrointestinal",
+    "scraped_date": "2025-11-13T01:13:35.023308",
+    "source_url": "https://www.mayoclinic.org/diseases-conditions/lactose-intolerance/symptoms-causes/syc-20374232",
+    "sections_count": 6,
+    "total_content_items": 18
+  },
+  "sections": [
+    {
+      "section": "Overview",
+      "content": [
+        "Lactose intolerance is a condition that makes it hard to digest the sugar in milk and milk products, called lactose. People with lactose intolerance often have diarrhea, gas and bloating after eating or drinking foods containing lactose. The condition is usually harmless, but its symptoms can cause discomfort.",
+        "Too little of an enzyme made in the small intestine, called lactase, is usually responsible for lactose intolerance. Someone can have low levels of lactase and still be able to digest milk products. But if levels are too low, a person can become lactose intolerant.",
+        "Most people with lactose intolerance can manage the condition without having to give up all dairy foods."
+      ]
+    },
+    {
+      "section": "Symptoms",
+      "content": [
+        "The symptoms of lactose intolerance usually begin within a few hours after eating or drinking foods that contain lactose. Common symptoms include:",
+        "Nausea, and sometimes, vomiting.",
+        "Stomach cramps."
+      ]
+    },
+    {
+      "section": "When to see a doctor",
+      "content": [
+        "Make an appointment with a healthcare professional if you often have symptoms of lactose intolerance after eating dairy foods — particularly if you're worried about getting enough calcium."
+      ]
+    },
+    {
+      "section": "Causes",
+      "content": [
+        "Lactose intolerance happens when the small intestine doesn't produce enough of an enzyme called lactase. Lactase is necessary to digest milk sugar, called lactose.",
+        "Usually, lactase turns milk sugar into two simple sugars, glucose and galactose. These sugars then get absorbed into the bloodstream through the intestinal lining.",
+        "But if your body doesn't make enough lactase, lactose in your food moves into the colon instead of being processed and absorbed by the intestinal lining. Bacteria in the colon then interact with undigested lactose, causing the symptoms of lactose intolerance.",
+        "There are three types of lactose intolerance. Different factors cause the lactase deficiency underlying each type."
+      ]
+    },
+    {
+      "section": "Risk factors",
+      "content": [
+        "Factors that can make someone more prone to lactose intolerance include:",
+        "Increasing age. Lactose intolerance usually appears in adulthood. The condition is not common in babies and young children.",
+        "Ethnicity. Lactose intolerance is most common in people of African, Asian, Hispanic and American Indian descent.",
+        "Premature birth. Infants born prematurely might have reduced levels of lactase because the small intestine doesn't develop lactase-producing cells until late in the third trimester.",
+        "Diseases affecting the small intestine. Small intestine problems that can cause lactose intolerance include bacterial overgrowth, celiac disease and Crohn's disease.",
+        "Certain cancer treatments. If you've had radiation therapy for cancer in your stomach or you have intestinal complications from chemotherapy, your risk of developing lactose intolerance increases."
+      ]
+    },
+    {
+      "section": "Mayo Clinic Press",
+      "content": [
+        "Check out these best-sellers and special offers on books and newsletters from Mayo Clinic Press."
+      ]
+    }
+  ]
+}

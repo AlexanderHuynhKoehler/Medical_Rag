@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "disease_name": "Deep Vein Thrombosis",
+    "category": "cardiovascular",
+    "scraped_date": "2025-11-13T01:13:25.189269",
+    "source_url": "https://www.mayoclinic.org/diseases-conditions/deep-vein-thrombosis/symptoms-causes/syc-20352557",
+    "sections_count": 8,
+    "total_content_items": 45
+  },
+  "sections": [
+    {
+      "section": "Overview",
+      "content": [
+        "Deep vein thrombosis (DVT) occurs when a blood clot (thrombus) forms in one or more of the deep veins in the body, usually in the legs. Deep vein thrombosis can cause leg pain or swelling. Sometimes there are no noticeable symptoms."
+      ]
+    },
+    {
+      "section": "Symptoms",
+      "content": [
+        "Deep vein thrombosis (DVT) symptoms can include:",
+        "Deep vein thrombosis can occur without noticeable symptoms.",
+        "Leg swelling",
+        "Leg pain, cramping or soreness that often starts in the calf",
+        "Change in skin color on the leg — such as red or purple, depending on the color of your skin",
+        "A feeling of warmth on the affected leg"
+      ]
+    },
+    {
+      "section": "When to see a doctor",
+      "content": [
+        "If you develop symptoms of Deep vein thrombosis (DVT), contact your health care provider.",
+        "If you develop symptoms of a pulmonary embolism (PE) — a life-threatening complication of deep vein thrombosis — seek emergency medical help.",
+        "The warning signs and symptoms of a pulmonary embolism include:",
+        "Sudden shortness of breath",
+        "Chest pain or discomfort that worsens when you take a deep breath or when you cough",
+        "Feeling lightheaded or dizzy",
+        "Rapid pulse",
+        "Rapid breathing",
+        "Coughing up blood"
+      ]
+    },
+    {
+      "section": "Causes",
+      "content": [
+        "Anything that prevents the blood from flowing or properly clotting can cause a blood clot.",
+        "The main causes of deep vein thrombosis (DVT) are damage to a vein from surgery or inflammation and damage due to infection or injury."
+      ]
+    },
+    {
+      "section": "Risk factors",
+      "content": [
+        "Many things can increase the risk of developing DVT. The more risk factors you have, the greater your risk of DVT. Risk factors for DVT include:",
+        "Sometimes, a blood clot in a vein can occur with no identifiable risk factor. This is called an unprovoked venous thromboembolism.",
+        "Age. Being older than 60 increases the risk of DVT. But DVT can occur at any age.",
+        "Lack of movement. When the legs don't move for a long time, the calf muscles don't squeeze (contract). Muscle contractions help blood flow. Sitting for a long time, such as when driving or flying, increases the risk of DVT. So does long-term bed rest, which may result from a lengthy hospital stay or a medical condition such as paralysis.",
+        "Injury or surgery. Injury to the veins or surgery can increase the risk of blood clots.",
+        "Pregnancy. Pregnancy increases the pressure in the veins in the pelvis and legs. The risk of blood clots from pregnancy can continue for up to six weeks after a baby is born. People with an inherited clotting disorder are especially at risk.",
+        "Birth control pills (oral contraceptives) or hormone replacement therapy. Both can increase the blood's ability to clot.",
+        "Being overweight or obese. Being overweight increases the pressure in the veins in the pelvis and legs.",
+        "Smoking. Smoking affects how blood flows and clots, which can increase the risk of DVT.",
+        "Cancer. Some cancers increase substances in the blood that cause the blood to clot. Some types of cancer treatment also increase the risk of blood clots.",
+        "Heart failure. Heart failure increases the risk of DVT and pulmonary embolism. Because the heart and lungs don't work well in people with heart failure, the symptoms caused by even a small pulmonary embolism are more noticeable.",
+        "Inflammatory bowel disease. Crohn's disease or ulcerative colitis increase the risk of DVT.",
+        "A personal or family history of DVT or pulmonary embolism (PE). If you or someone in your family has had one or both of these conditions, you might be at greater risk of developing DVT.",
+        "Genetics. Some people have DNA changes that cause the blood to clot more easily. One example is factor V Leiden. This inherited disorder changes one of the clotting factors in the blood. An inherited disorder on its own might not cause blood clots unless combined with other risk factors."
+      ]
+    },
+    {
+      "section": "Complications",
+      "content": [
+        "Complications of deep vein thrombosis (DVT) can include:",
+        "Pulmonary embolism (PE). PE is a potentially life-threatening complication associated with DVT. It occurs when a blood clot (thrombus) in a leg or other body area breaks free and gets stuck in a blood vessel in a lung.",
+        "Get immediate medical help if you have symptoms of PE. They include sudden shortness of breath, chest pain while breathing in or coughing, rapid breathing, rapid pulse, feeling faint or fainting, and coughing up blood.",
+        "Pulmonary embolism (PE). PE is a potentially life-threatening complication associated with DVT. It occurs when a blood clot (thrombus) in a leg or other body area breaks free and gets stuck in a blood vessel in a lung. Get immediate medical help if you have symptoms of PE. They include sudden shortness of breath, chest pain while breathing in or coughing, rapid breathing, rapid pulse, feeling faint or fainting, and coughing up blood.",
+        "Postphlebitic syndrome. Damage to the veins from the blood clot reduces blood flow in the affected areas. Symptoms include leg pain, leg swelling, skin color changes and skin sores.",
+        "Treatment complications. Blood thinners are often used to treat DVT. Bleeding (hemorrhage) is a worrisome side effect of blood thinners. It's important to have regular blood tests while taking blood-thinning drugs."
+      ]
+    },
+    {
+      "section": "Prevention",
+      "content": [
+        "Lifestyle changes may help prevent deep vein thrombosis. Try these strategies:",
+        "Move your legs. If you've had surgery or have been on bed rest, try to move as soon as possible. Don't cross your legs while sitting. Doing so can block blood flow.",
+        "When traveling, take frequent breaks to stretch your legs. When on a plane, stand or walk occasionally. If you're traveling by car, stop every hour or so and walk around. If you can't walk, do lower leg exercises. Raise and lower your heels while keeping your toes on the floor. Then raise your toes while keeping your heels on the floor.",
+        "Move your legs. If you've had surgery or have been on bed rest, try to move as soon as possible. Don't cross your legs while sitting. Doing so can block blood flow. When traveling, take frequent breaks to stretch your legs. When on a plane, stand or walk occasionally. If you're traveling by car, stop every hour or so and walk around. If you can't walk, do lower leg exercises. Raise and lower your heels while keeping your toes on the floor. Then raise your toes while keeping your heels on the floor.",
+        "Don't smoke. Smoking increases the risk of DVT.",
+        "Manage weight. Obesity is a risk factor for DVT. Regular exercise lowers the risk of blood clots. As a general goal, aim for at least 30 minutes of moderate physical activity every day. If you want to lose weight, maintain weight loss or meet specific fitness goals, you may need to exercise more."
+      ]
+    },
+    {
+      "section": "Mayo Clinic Press",
+      "content": [
+        "Check out these best-sellers and special offers on books and newsletters from Mayo Clinic Press."
+      ]
+    }
+  ]
+}

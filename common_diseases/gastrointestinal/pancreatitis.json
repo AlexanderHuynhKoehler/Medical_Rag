@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "disease_name": "Pancreatitis",
+    "category": "gastrointestinal",
+    "scraped_date": "2025-11-13T01:05:00.492701",
+    "source_url": "https://www.mayoclinic.org/diseases-conditions/pancreatitis/symptoms-causes/syc-20360227",
+    "sections_count": 7,
+    "total_content_items": 64
+  },
+  "sections": [
+    {
+      "section": "Overview",
+      "content": [
+        "Pancreatitis is inflammation of the pancreas. Inflammation is the body's natural immune response to injury or irritation. It can lead to swelling, pain, and changes in how the pancreas works.",
+        "The pancreas is a long, flat gland that's tucked behind the stomach. The pancreas helps the body digest food and regulates blood sugar.",
+        "Pancreatitis can be an acute condition. This means it appears suddenly and can be mild or severe. Chronic pancreatitis is a long-term condition that does not heal or improve. The damage to the pancreas can get worse over time and cause permanent scarring."
+      ]
+    },
+    {
+      "section": "Symptoms",
+      "content": [
+        "Symptoms of pancreatitis may vary. Acute pancreatitis symptoms may include:",
+        "Pain in the upper belly that may feel worse after eating.",
+        "Pain in the upper belly that radiates to the back or shoulders.",
+        "Tenderness when touching the belly.",
+        "Fast heartbeat.",
+        "Nausea and vomiting.",
+        "Shortness of breath.",
+        "Chronic pancreatitis symptoms may include:",
+        "Constant pain in the upper belly.",
+        "Belly pain that feels worse after eating.",
+        "Losing weight without trying.",
+        "Oily, smelly stools.",
+        "Symptoms of diabetes mellitus, such as excessive thirst, hunger and urination.",
+        "Some people with chronic pancreatitis only develop symptoms after they get complications of the disease.",
+        "Make an appointment with your healthcare professional if you have sudden belly pain or belly pain that doesn't improve. Seek immediate medical help if your pain is so severe that you can't sit still or find a position that makes you more comfortable."
+      ]
+    },
+    {
+      "section": "Causes",
+      "content": [
+        "The pancreas has two major roles. It produces insulin, which helps the body manage and use sugars.",
+        "The pancreas also produces dietary juices, called enzymes, that help with digestion. The pancreas makes and stores \"turned off\" versions of these enzymes. After the pancreas sends the enzymes into the small intestine, they are \"turned on\" and break down proteins in the small intestine.",
+        "If the enzymes are turned on too soon, they can start acting like digestive juices inside the pancreas. This action can irritate, damage or destroy cells. This, in turn, leads to immune system responses that cause swelling and other actions that affect how the pancreas works.",
+        "Several conditions can lead to acute pancreatitis, including:",
+        "Blockage in the bile duct caused by gallstones.",
+        "Heavy alcohol use or cigarette smoking.",
+        "Certain medicines.",
+        "High triglyceride levels in the blood.",
+        "High calcium levels in the blood.",
+        "Pancreatic cancer.",
+        "Injuries from endoscopy, trauma or surgery.",
+        "Conditions that can lead to chronic pancreatitis include:",
+        "Heavy alcohol use or cigarette smoking.",
+        "Damage from repeated acute pancreatitis.",
+        "Inherited conditions of the pancreas.",
+        "High triglyceride levels in the blood.",
+        "Autoimmune condition of the pancreas.",
+        "Sometimes, a cause of pancreatitis is never found. This is known as idiopathic pancreatitis."
+      ]
+    },
+    {
+      "section": "Risk factors",
+      "content": [
+        "Factors that increase your risk of pancreatitis include:",
+        "Being male. Males have a higher risk of developing pancreatitis than females.",
+        "Race. People who are Black have a higher risk of developing pancreatitis than people who are white.",
+        "Excessive alcohol use. People who consume more than four alcoholic drinks a day are at an increased risk of pancreatitis.",
+        "Cigarette smoking. People who smoke cigarettes are three times more likely to develop pancreatitis than people who don't smoke. Quitting smoking can decrease the risk.",
+        "Obesity. People with a body mass index of 30 or higher are at an increased risk of pancreatitis.",
+        "Diabetes. People with diabetes have an increased risk of pancreatitis.",
+        "Family history of pancreatitis. A number of genes have been linked to chronic pancreatitis. A family history of the disease is linked to an increased risk, especially when combined with other risk factors.",
+        "Personal or family history of gallstones. People with a personal or family history of gallstones are at higher risk of pancreatitis."
+      ]
+    },
+    {
+      "section": "Complications",
+      "content": [
+        "Pancreatitis can cause serious complications, including:",
+        "Kidney failure. Acute pancreatitis may result in the kidneys not filtering waste from the blood. Artificial filtering, called dialysis, may be needed for short-term or long-term treatment.",
+        "Breathing problems. Acute pancreatitis can cause changes in how the lungs work, causing the level of oxygen in the blood to fall to dangerously low levels.",
+        "Infection. Acute pancreatitis can make the pancreas vulnerable to infections. Pancreatic infections are serious and require intensive treatment such as surgery or other procedures to remove the infected tissue.",
+        "Pseudocyst. Acute and chronic pancreatitis can cause fluid and debris to collect in a \"pocket\" in the pancreas, called a pseudocyst. A large pseudocyst that ruptures can cause complications such as internal bleeding and infection.",
+        "Malnutrition. With chronic pancreatitis, the pancreas may not produce enough enzymes for the digestive system. This can lead to malnutrition, diarrhea and weight loss.",
+        "Osteoporosis. Chronic pancreatitis that causes malnutrition can weaken the bones. This can lead to increased risk of fractures.",
+        "Diabetes. Diabetes can develop when chronic pancreatitis damages cells that produce insulin.",
+        "Pancreatic cancer. Long-standing inflammation in the pancreas can increase the risk of pancreatic cancer."
+      ]
+    },
+    {
+      "section": "Prevention",
+      "content": [
+        "Ways to prevent pancreatitis may include:",
+        "Prevent or manage gallstones. Take steps to prevent gallstones by maintaining a healthy weight and eating a balanced diet. If you have a history of gallstones, your healthcare professional may recommend removing your gallbladder.",
+        "Avoid alcohol and cigarettes. Drinking alcohol and smoking cigarettes increases the risk of pancreatitis.",
+        "Avoid certain medicines. Some medicines increase the risk of pancreatitis. Talk with your healthcare professional about the medicines you take.",
+        "Eat a balanced diet. Eat vegetables, fruit, whole grains and lean proteins. Avoid foods that are high in fat.",
+        "Stay hydrated. Drinking enough water helps with digestion and gallbladder function."
+      ]
+    },
+    {
+      "section": "Pancreatitis",
+      "content": [
+        "Symptoms&causes",
+        "Diagnosis&treatment",
+        "Doctors&departments",
+        "Care atMayoClinic"
+      ]
+    }
+  ]
+}
