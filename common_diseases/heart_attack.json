@@ -1,0 +1,131 @@
+{
+  "metadata": {
+    "disease_name": "Heart Attack",
+    "category": "cardiovascular",
+    "scraped_date": "2025-11-13T01:13:21.906549",
+    "source_url": "https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106",
+    "sections_count": 10,
+    "total_content_items": 69
+  },
+  "sections": [
+    {
+      "section": "Overview",
+      "content": [
+        "A heart attack occurs when the flow of blood to the heart is severely reduced or blocked. The blockage is usually due to a buildup of fat, cholesterol and other substances in the heart (coronary) arteries. The fatty, cholesterol-containing deposits are called plaques. The process of plaque buildup is called atherosclerosis.",
+        "Sometimes, a plaque can rupture and form a clot that blocks blood flow. A lack of blood flow can damage or destroy part of the heart muscle."
+      ]
+    },
+    {
+      "section": "Symptoms",
+      "content": [
+        "Symptoms of a heart attack vary. Some people have mild symptoms. Others have severe symptoms. Some people have no symptoms.",
+        "Common heart attack symptoms include:",
+        "Women may have atypical symptoms such as brief or sharp pain felt in the neck, arm or back. Sometimes, the first symptom sign of a heart attack is sudden cardiac arrest.",
+        "Some heart attacks strike suddenly. But many people have warning signs and symptoms hours, days or weeks in advance. Chest pain or pressure (angina) that keeps happening and doesn't go away with rest may be an early warning sign. Angina is caused by a temporary decrease in blood flow to the heart.",
+        "Chest pain that may feel like pressure, tightness, pain, squeezing or aching",
+        "Pain or discomfort that spreads to the shoulder, arm, back, neck, jaw, teeth or sometimes the upper belly",
+        "Heartburn or indigestion",
+        "Lightheadedness or sudden dizziness",
+        "Shortness of breath"
+      ]
+    },
+    {
+      "section": "When to see a doctor",
+      "content": [
+        "Get help right away if you think you're having a heart attack. Take these steps:",
+        "Take aspirin, if recommended. Taking aspirin during a heart attack may reduce heart damage by preventing blood clotting.",
+        "Aspirin can interact with other drugs. Don't take an aspirin unless your care provider or emergency medical personnel say to do so. Don't delay calling 911 to take an aspirin. Call for emergency help first.",
+        "Call for emergency medical help. If you think you're having a heart attack, immediately call 911 or your local emergency number. If you don't have access to emergency medical services, have someone drive you to the nearest hospital. Drive yourself only if there are no other options.",
+        "Take nitroglycerin, if prescribed to you by a health care provider. Take it as instructed while awaiting emergency help.",
+        "Take aspirin, if recommended. Taking aspirin during a heart attack may reduce heart damage by preventing blood clotting. Aspirin can interact with other drugs. Don't take an aspirin unless your care provider or emergency medical personnel say to do so. Don't delay calling 911 to take an aspirin. Call for emergency help first."
+      ]
+    },
+    {
+      "section": "Causes",
+      "content": [
+        "Coronary artery disease causes most heart attacks. In coronary artery disease, one or more of the heart (coronary) arteries are blocked. This is usually due to cholesterol-containing deposits called plaques. Plaques can narrow the arteries, reducing blood flow to the heart.",
+        "If a plaque breaks open, it can cause a blood clot in the heart.",
+        "A heart attack may be caused by a complete or partial blockage of a heart (coronary) artery. One way to classify heart attacks is whether an electrocardiogram (ECG or EKG) shows some specific changes (ST elevation) that require emergency invasive treatment. Your health care provider may use ECG results to describe these types of heart attacks.",
+        "Not all heart attacks are caused by blocked arteries. Other causes include:",
+        "An acute complete blockage of a medium or large heart artery usually means you've had an ST elevation myocardial infarction (STEMI).",
+        "A partial blockage often means you've had a non-ST elevation myocardial infarction (NSTEMI). However, some people with NSTEMI have a total blockage.",
+        "Coronary artery spasm. This is a severe squeezing of a blood vessel that's not blocked. The artery generally has cholesterol plaques or there is early hardening of the vessel due to smoking or other risk factors. Other names for coronary artery spasms are Prinzmetal's angina, vasospastic angina or variant angina.",
+        "Certain infections. COVID-19 and other viral infections may cause damage to the heart muscle.",
+        "Spontaneous coronary artery dissection (SCAD). This life-threatening condition is caused by a tear inside a heart artery."
+      ]
+    },
+    {
+      "section": "Risk factors",
+      "content": [
+        "Heart attack risk factors include:",
+        "Age. Men age 45 and older and women age 55 and older are more likely to have a heart attack than are younger men and women.",
+        "Tobacco use. This includes smoking and long-term exposure to secondhand smoke. If you smoke, quit.",
+        "High blood pressure. Over time, high blood pressure can damage arteries that lead to the heart. High blood pressure that occurs with other conditions, such as obesity, high cholesterol or diabetes, increases the risk even more.",
+        "High cholesterol or triglycerides. A high level of low-density lipoprotein (LDL) cholesterol (the \"bad\" cholesterol) is most likely to narrow arteries. A high level of certain blood fats called triglycerides also increases heart attack risk. Your heart attack risk may drop if levels of high-density lipoprotein (HDL) cholesterol — the \"good\" cholesterol — are in the standard range.",
+        "Obesity. Obesity is linked with high blood pressure, diabetes, high levels of triglycerides and bad cholesterol, and low levels of good cholesterol.",
+        "Diabetes. Blood sugar rises when the body doesn't make a hormone called insulin or can't use it correctly. High blood sugar increases the risk of a heart attack.",
+        "Metabolic syndrome. This is a combination of at least three of the following things: enlarged waist (central obesity), high blood pressure, low good cholesterol, high triglycerides and high blood sugar. Having metabolic syndrome makes you twice as likely to develop heart disease than if you don't have it.",
+        "Family history of heart attacks. If a brother, sister, parent or grandparent had an early heart attack (by age 55 for males and by age 65 for females), you might be at increased risk.",
+        "Not enough exercise. A lack of physical activity (sedentary lifestyle) is linked to a higher risk of heart attacks. Regular exercise improves heart health.",
+        "Unhealthy diet. A diet high in sugars, animal fats, processed foods, trans fats and salt increases the risk of heart attacks. Eat plenty of fruits, vegetables, fiber and healthy oils.",
+        "Stress. Emotional stress, such as extreme anger, may increase the risk of a heart attack.",
+        "Illegal drug use. Cocaine and amphetamines are stimulants. They can trigger a coronary artery spasm that can cause a heart attack.",
+        "A history of preeclampsia. This condition causes high blood pressure during pregnancy. It increases the lifetime risk of heart disease.",
+        "An autoimmune condition. Having a condition such as rheumatoid arthritis or lupus can increase the risk of a heart attack."
+      ]
+    },
+    {
+      "section": "Complications",
+      "content": [
+        "Heart attack complications are often due to heart muscle damage. Potential complications of a heart attack include:",
+        "Irregular or atypical heart rhythms (arrhythmias). Heart attack damage can affect how electrical signals move through the heart, causing heartbeat changes. Some may be serious and can be deadly.",
+        "Cardiogenic shock. This rare condition occurs when the heart is suddenly and abruptly unable to pump blood.",
+        "Heart failure. A lot of damage to the heart muscle tissue can make the heart unable to pump blood. Heart failure can be temporary or long-lasting (chronic).",
+        "Inflammation of the saclike tissue surrounding the heart (pericarditis). Sometimes a heart attack triggers a faulty immune system response. This condition may be called Dressler syndrome, postmyocardial infarction syndrome or postcardiac injury syndrome.",
+        "Cardiac arrest. Without warning, the heart stops. A sudden change in the heart's signaling causes sudden cardiac arrest. A heart attack increases the risk of this life-threatening condition. It can lead to death (sudden cardiac death) without immediate treatment."
+      ]
+    },
+    {
+      "section": "Prevention",
+      "content": [
+        "It's never too late to take steps to prevent a heart attack — even if you've already had one. Here are ways to prevent a heart attack.",
+        "It's also a good idea to learn Cardiopulmonary resuscitation (CPR) properly so you can help someone who's having a heart attack. Consider taking an accredited first-aid training course, including CPR and how to use an automated external defibrillator (AED).",
+        "Follow a healthy lifestyle. Don't smoke. Maintain a healthy weight with a heart-healthy diet. Get regular exercise and manage stress.",
+        "Manage other health conditions. Certain conditions, such as high blood pressure and diabetes, can increase the risk of heart attacks. Ask your health care provider how often you need checkups.",
+        "Take medications as directed. Your health care provider may prescribe drugs to protect and improve your heart health."
+      ]
+    },
+    {
+      "section": "More Information",
+      "content": [
+        "Calcium supplements: A risk factor for heart attack?",
+        "Flu Shot Prevents Heart Attack",
+        "Heart attack",
+        "Heart attack prevention: Should I avoid secondhand smoke?",
+        "Heart attack symptoms",
+        "Heart Attack Timing",
+        "NSAIDs: Do they increase my risk of heart attack and stroke?",
+        "Silent heart attack"
+      ]
+    },
+    {
+      "section": "Associated Procedures",
+      "content": [
+        "Cardiac catheterization",
+        "Chest X-rays",
+        "Coronary angiogram",
+        "Coronary artery bypass surgery",
+        "Echocardiogram",
+        "Electrocardiogram (ECG or EKG)",
+        "Extracorporeal membrane oxygenation (ECMO)",
+        "Stress test"
+      ]
+    },
+    {
+      "section": "Mayo Clinic Press",
+      "content": [
+        "Check out these best-sellers and special offers on books and newsletters from Mayo Clinic Press."
+      ]
+    }
+  ]
+}

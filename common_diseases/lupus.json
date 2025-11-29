@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "disease_name": "Lupus",
+    "category": "musculoskeletal",
+    "scraped_date": "2025-11-13T10:49:07.433475",
+    "source_url": "https://www.mayoclinic.org/diseases-conditions/lupus/symptoms-causes/syc-20365789",
+    "sections_count": 8,
+    "total_content_items": 33
+  },
+  "sections": [
+    {
+      "section": "Overview",
+      "content": [
+        "Lupus is a disease that occurs when your body's immune system attacks your own tissues and organs (autoimmune disease). Inflammation caused by lupus can affect many different body systems — including your joints, skin, kidneys, blood cells, brain, heart and lungs.",
+        "Lupus can be difficult to diagnose because its signs and symptoms often mimic those of other ailments. The most distinctive sign of lupus — a facial rash that resembles the wings of a butterfly unfolding across both cheeks — occurs in many but not all cases of lupus.",
+        "Some people are born with a tendency toward developing lupus, which may be triggered by infections, certain drugs or even sunlight. While there's no cure for lupus, treatments can help control symptoms."
+      ]
+    },
+    {
+      "section": "Symptoms",
+      "content": [
+        "No two cases of lupus are exactly alike. Signs and symptoms may come on suddenly or develop slowly, may be mild or severe, and may be temporary or permanent. Most people with lupus have mild disease characterized by episodes — called flares — when signs and symptoms get worse for a while, then improve or even disappear completely for a time.",
+        "The signs and symptoms of lupus that you experience will depend on which body systems are affected by the disease. The most common signs and symptoms include:",
+        "Joint pain, stiffness and swelling",
+        "Butterfly-shaped rash on the face that covers the cheeks and bridge of the nose or rashes elsewhere on the body",
+        "Skin lesions that appear or worsen with sun exposure",
+        "Fingers and toes that turn white or blue when exposed to cold or during stressful periods",
+        "Shortness of breath",
+        "Headaches, confusion and memory loss"
+      ]
+    },
+    {
+      "section": "When to see a doctor",
+      "content": [
+        "See your doctor if you develop an unexplained rash, ongoing fever, persistent aching or fatigue."
+      ]
+    },
+    {
+      "section": "Causes",
+      "content": [
+        "As an autoimmune disease, lupus occurs when your immune system attacks healthy tissue in your body. It's likely that lupus results from a combination of your genetics and your environment.",
+        "It appears that people with an inherited predisposition for lupus may develop the disease when they come into contact with something in the environment that can trigger lupus. The cause of lupus in most cases, however, is unknown. Some potential triggers include:",
+        "Sunlight. Exposure to the sun may bring on lupus skin lesions or trigger an internal response in susceptible people.",
+        "Infections. Having an infection can initiate lupus or cause a relapse in some people.",
+        "Medications. Lupus can be triggered by certain types of blood pressure medications, anti-seizure medications and antibiotics. People who have drug-induced lupus usually get better when they stop taking the medication. Rarely, symptoms may persist even after the drug is stopped."
+      ]
+    },
+    {
+      "section": "Risk factors",
+      "content": [
+        "Factors that may increase your risk of lupus include:",
+        "Your sex. Lupus is more common in women.",
+        "Age. Although lupus affects people of all ages, it's most often diagnosed between the ages of 15 and 45.",
+        "Race. Lupus is more common in African Americans, Hispanics and Asian Americans."
+      ]
+    },
+    {
+      "section": "Complications",
+      "content": [
+        "Inflammation caused by lupus can affect many areas of your body, including your:",
+        "Kidneys. Lupus can cause serious kidney damage, and kidney failure is one of the leading causes of death among people with lupus.",
+        "Brain and central nervous system. If your brain is affected by lupus, you may experience headaches, dizziness, behavior changes, vision problems, and even strokes or seizures. Many people with lupus experience memory problems and may have difficulty expressing their thoughts.",
+        "Blood and blood vessels. Lupus may lead to blood problems, including a reduced number of healthy red blood cells (anemia) and an increased risk of bleeding or blood clotting. It can also cause inflammation of the blood vessels.",
+        "Lungs. Having lupus increases your chances of developing an inflammation of the chest cavity lining, which can make breathing painful. Bleeding into lungs and pneumonia also are possible.",
+        "Heart. Lupus can cause inflammation of your heart muscle, your arteries or heart membrane. The risk of cardiovascular disease and heart attacks increases greatly as well."
+      ]
+    },
+    {
+      "section": "Associated Procedures",
+      "content": [
+        "Antinuclear antibody (ANA) test",
+        "Complete blood count (CBC)",
+        "Echocardiogram",
+        "Liver function tests",
+        "Sed rate (erythrocyte sedimentation rate)"
+      ]
+    },
+    {
+      "section": "Mayo Clinic Press",
+      "content": [
+        "Check out these best-sellers and special offers on books and newsletters from Mayo Clinic Press."
+      ]
+    }
+  ]
+}

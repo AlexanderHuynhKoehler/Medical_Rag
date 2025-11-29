@@ -1,0 +1,284 @@
+{
+  "overall_metrics": {
+    "avg_q_to_ctx_similarity": 0.5687098862095312,
+    "max_q_to_ctx_similarity": 0.6193098335103555,
+    "avg_gt_to_ctx_similarity": 0.5260654223744164,
+    "max_gt_to_ctx_similarity": 0.6125898615880446,
+    "retrieval_diversity": 0.36212245395237747,
+    "avg_bm25_score": 0.45418182570411814,
+    "max_bm25_score": 0.8492240442564533,
+    "ndcg@k": 0.9691658227537423,
+    "context_relevance": 0.5772727272727273,
+    "context_coverage": 0.6125898615880446,
+    "semantic_similarity": 0.6793481513519178,
+    "answer_question_relevance": 0.7403428221290762,
+    "rouge1_f": 0.256828307598186,
+    "rouge2_f": 0.06057982085071742,
+    "rougeL_f": 0.14177657518397152,
+    "bert_score_precision": 0.844730009003119,
+    "bert_score_recall": 0.8160897970199585,
+    "bert_score_f1": 0.829377328265797,
+    "answer_length": 113.10454545454546,
+    "length_ratio": 0.9354796785066458,
+    "key_term_coverage": 0.3275862084970564,
+    "faithfulness_score": 0.40325308221685835,
+    "min_sentence_support": 0.16960601859345018,
+    "unsupported_sentences": 5.527272727272727
+  },
+  "by_category_mean": {
+    "avg_q_to_ctx_similarity": {
+      "Cardiovascular": 0.6148854524924837,
+      "Endocrine/Metabolic": 0.5585527473262378,
+      "Gastrointestinal": 0.5739242194712847,
+      "Kidney/Renal": 0.5916744974397478,
+      "Musculoskeletal": 0.5970447127308164,
+      "Neurological": 0.5736322747222309,
+      "Respiratory": 0.6094780985651345,
+      "Unrelated": 0.3703439421951771
+    },
+    "max_q_to_ctx_similarity": {
+      "Cardiovascular": 0.6720405488178648,
+      "Endocrine/Metabolic": 0.6001196237547057,
+      "Gastrointestinal": 0.6322951892326618,
+      "Kidney/Renal": 0.6460819329534259,
+      "Musculoskeletal": 0.6481602511235646,
+      "Neurological": 0.6143216984025364,
+      "Respiratory": 0.6649989382974033,
+      "Unrelated": 0.4139998942613602
+    },
+    "avg_gt_to_ctx_similarity": {
+      "Cardiovascular": 0.550604360327981,
+      "Endocrine/Metabolic": 0.5068307761989889,
+      "Gastrointestinal": 0.5442428256588421,
+      "Kidney/Renal": 0.513573808329446,
+      "Musculoskeletal": 0.5466905394125552,
+      "Neurological": 0.5381155067134178,
+      "Respiratory": 0.6198558588137572,
+      "Unrelated": 0.32619957290589807
+    },
+    "max_gt_to_ctx_similarity": {
+      "Cardiovascular": 0.6354978022904232,
+      "Endocrine/Metabolic": 0.5751023297863347,
+      "Gastrointestinal": 0.6445689088311689,
+      "Kidney/Renal": 0.5920803472399712,
+      "Musculoskeletal": 0.6510458418301174,
+      "Neurological": 0.629575330635597,
+      "Respiratory": 0.7091766523903814,
+      "Unrelated": 0.395681444555521
+    },
+    "retrieval_diversity": {
+      "Cardiovascular": 0.3329482462214327,
+      "Endocrine/Metabolic": 0.366573567014365,
+      "Gastrointestinal": 0.3956075742326934,
+      "Kidney/Renal": 0.32838971487113405,
+      "Musculoskeletal": 0.3538519051812944,
+      "Neurological": 0.3584711959307221,
+      "Respiratory": 0.3308776538262422,
+      "Unrelated": 0.4590439597765605
+    },
+    "avg_bm25_score": {
+      "Cardiovascular": 0.4629821047197268,
+      "Endocrine/Metabolic": 0.38585971798475255,
+      "Gastrointestinal": 0.5091054285990573,
+      "Kidney/Renal": 0.5179904297221265,
+      "Musculoskeletal": 0.3775580848316574,
+      "Neurological": 0.5191232602346995,
+      "Respiratory": 0.4509123680939299,
+      "Unrelated": 0.3859499728025994
+    },
+    "max_bm25_score": {
+      "Cardiovascular": 0.811766422136554,
+      "Endocrine/Metabolic": 0.7798609805634157,
+      "Gastrointestinal": 0.9281501770555438,
+      "Kidney/Renal": 0.9974458963178908,
+      "Musculoskeletal": 0.6923538314827028,
+      "Neurological": 0.9624141291456979,
+      "Respiratory": 0.7586189431364971,
+      "Unrelated": 0.8655624714736477
+    },
+    "ndcg@k": {
+      "Cardiovascular": 0.9832621735159329,
+      "Endocrine/Metabolic": 0.9689657183955519,
+      "Gastrointestinal": 0.9712174835503811,
+      "Kidney/Renal": 0.9654540684242888,
+      "Musculoskeletal": 0.9567246368015265,
+      "Neurological": 0.9637728527908849,
+      "Respiratory": 0.966413293869778,
+      "Unrelated": 0.9804564418171349
+    },
+    "context_relevance": {
+      "Cardiovascular": 0.6436781609195402,
+      "Endocrine/Metabolic": 0.5714285714285714,
+      "Gastrointestinal": 0.5862068965517241,
+      "Kidney/Renal": 0.5238095238095238,
+      "Musculoskeletal": 0.6071428571428571,
+      "Neurological": 0.5862068965517241,
+      "Respiratory": 0.8390804597701149,
+      "Unrelated": 0.11666666666666665
+    },
+    "context_coverage": {
+      "Cardiovascular": 0.6354978022904232,
+      "Endocrine/Metabolic": 0.5751023297863347,
+      "Gastrointestinal": 0.6445689088311689,
+      "Kidney/Renal": 0.5920803472399712,
+      "Musculoskeletal": 0.6510458418301174,
+      "Neurological": 0.629575330635597,
+      "Respiratory": 0.7091766523903814,
+      "Unrelated": 0.395681444555521
+    },
+    "semantic_similarity": {
+      "Cardiovascular": 0.6618781518833391,
+      "Endocrine/Metabolic": 0.6681193294269698,
+      "Gastrointestinal": 0.6905491701487837,
+      "Kidney/Renal": 0.6453330463596753,
+      "Musculoskeletal": 0.7220770088689668,
+      "Neurological": 0.659715342110601,
+      "Respiratory": 0.7629794416756466,
+      "Unrelated": 0.599161472916603
+    },
+    "answer_question_relevance": {
+      "Cardiovascular": 0.7375610655751722,
+      "Endocrine/Metabolic": 0.7359053726707186,
+      "Gastrointestinal": 0.7422654998713526,
+      "Kidney/Renal": 0.7467939470495496,
+      "Musculoskeletal": 0.7619146747248513,
+      "Neurological": 0.7186798864397509,
+      "Respiratory": 0.7513235355245655,
+      "Unrelated": 0.7240579694509506
+    },
+    "rouge1_f": {
+      "Cardiovascular": 0.23355537669164714,
+      "Endocrine/Metabolic": 0.2285710852635506,
+      "Gastrointestinal": 0.2671957110673999,
+      "Kidney/Renal": 0.24596284961645284,
+      "Musculoskeletal": 0.3039683712099383,
+      "Neurological": 0.28869469197547926,
+      "Respiratory": 0.2608799908165157,
+      "Unrelated": 0.2122357877551166
+    },
+    "rouge2_f": {
+      "Cardiovascular": 0.060986485283416575,
+      "Endocrine/Metabolic": 0.045326663213223636,
+      "Gastrointestinal": 0.06581419260568627,
+      "Kidney/Renal": 0.053891092329855915,
+      "Musculoskeletal": 0.06731717850978548,
+      "Neurological": 0.06716293007452455,
+      "Respiratory": 0.07599937972901843,
+      "Unrelated": 0.041782789529544076
+    },
+    "rougeL_f": {
+      "Cardiovascular": 0.1278889058553847,
+      "Endocrine/Metabolic": 0.12433463215485555,
+      "Gastrointestinal": 0.151592443608267,
+      "Kidney/Renal": 0.13534503970074335,
+      "Musculoskeletal": 0.16024059443951247,
+      "Neurological": 0.1556773180806772,
+      "Respiratory": 0.15785569898580984,
+      "Unrelated": 0.1117831227418296
+    },
+    "bert_score_precision": {
+      "Cardiovascular": 0.8378356366321958,
+      "Endocrine/Metabolic": 0.8448823349816459,
+      "Gastrointestinal": 0.8475217182060768,
+      "Kidney/Renal": 0.8329409616334098,
+      "Musculoskeletal": 0.8563428329569953,
+      "Neurological": 0.8496433290941962,
+      "Respiratory": 0.8568566647069208,
+      "Unrelated": 0.8260043621063232
+    },
+    "bert_score_recall": {
+      "Cardiovascular": 0.7963334876915504,
+      "Endocrine/Metabolic": 0.7919706872531346,
+      "Gastrointestinal": 0.8178137910777125,
+      "Kidney/Renal": 0.8247547979865756,
+      "Musculoskeletal": 0.8342165393488747,
+      "Neurological": 0.8385087847709656,
+      "Respiratory": 0.8109510109342378,
+      "Unrelated": 0.8134386748075485
+    },
+    "bert_score_f1": {
+      "Cardiovascular": 0.8153505201997429,
+      "Endocrine/Metabolic": 0.8166933166129249,
+      "Gastrointestinal": 0.831684435236043,
+      "Kidney/Renal": 0.8284114322492054,
+      "Musculoskeletal": 0.8448170700243541,
+      "Neurological": 0.8437125312870947,
+      "Respiratory": 0.832261455470118,
+      "Unrelated": 0.8188970983028412
+    },
+    "answer_length": {
+      "Cardiovascular": 116.82758620689656,
+      "Endocrine/Metabolic": 100.53571428571429,
+      "Gastrointestinal": 116.13793103448276,
+      "Kidney/Renal": 121.28571428571429,
+      "Musculoskeletal": 114.28571428571429,
+      "Neurological": 112.20689655172414,
+      "Respiratory": 97.93103448275862,
+      "Unrelated": 131.1
+    },
+    "length_ratio": {
+      "Cardiovascular": 1.1541869611401794,
+      "Endocrine/Metabolic": 0.5163104588647934,
+      "Gastrointestinal": 1.2542356939310138,
+      "Kidney/Renal": 1.1012374937816705,
+      "Musculoskeletal": 0.7375243829879282,
+      "Neurological": 0.9034647344767882,
+      "Respiratory": 0.635511102289266,
+      "Unrelated": 1.2694473805209474
+    },
+    "key_term_coverage": {
+      "Cardiovascular": 0.3472563871532682,
+      "Endocrine/Metabolic": 0.2819966469556893,
+      "Gastrointestinal": 0.3536683861706119,
+      "Kidney/Renal": 0.2927496017769563,
+      "Musculoskeletal": 0.36617543114818074,
+      "Neurological": 0.3254434253336487,
+      "Respiratory": 0.35727458343238544,
+      "Unrelated": 0.27987590760408787
+    },
+    "faithfulness_score": {
+      "Cardiovascular": 0.43014882375241836,
+      "Endocrine/Metabolic": 0.39122022174153537,
+      "Gastrointestinal": 0.39701153615500656,
+      "Kidney/Renal": 0.3470751008872746,
+      "Musculoskeletal": 0.4074833192470505,
+      "Neurological": 0.46404406009739146,
+      "Respiratory": 0.468367925386102,
+      "Unrelated": 0.2803139049424056
+    },
+    "min_sentence_support": {
+      "Cardiovascular": 0.17079832324565486,
+      "Endocrine/Metabolic": 0.17352216304945095,
+      "Gastrointestinal": 0.16937158128310895,
+      "Kidney/Renal": 0.05894544557668269,
+      "Musculoskeletal": 0.17148927053702728,
+      "Neurological": 0.24519208931075087,
+      "Respiratory": 0.2588827205372268,
+      "Unrelated": 0.0759717378532514
+    },
+    "unsupported_sentences": {
+      "Cardiovascular": 5.0,
+      "Endocrine/Metabolic": 5.392857142857143,
+      "Gastrointestinal": 6.172413793103448,
+      "Kidney/Renal": 7.071428571428571,
+      "Musculoskeletal": 5.785714285714286,
+      "Neurological": 3.9310344827586206,
+      "Respiratory": 3.8275862068965516,
+      "Unrelated": 7.8
+    }
+  },
+  "abstention_performance": {
+    "precision": 0.9090909090909091,
+    "recall": 1.0,
+    "f1_score": 0.9523809523809523,
+    "accuracy": 0.9090909090909091,
+    "correct_answers_tp": 200,
+    "correct_abstentions_tn": 0,
+    "incorrect_abstentions_fn": 0,
+    "hallucinations_fp": 20,
+    "total_samples": 220,
+    "relevant_samples": 200,
+    "irrelevant_samples": 20
+  },
+  "calibration_metrics": {}
+}
